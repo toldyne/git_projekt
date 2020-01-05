@@ -13,3 +13,5 @@
  2. lista 2
 
 Honlapom  http://www.ehubai.tuti.hu
+
+Ebben a sorban beillesztett `<b> kódrészket </b>` van 
