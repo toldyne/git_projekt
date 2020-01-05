@@ -13,4 +13,3 @@
  2. lista 2
 
 Honlapom  http://www.ehubai.tuti.hu
-[Honlapom](http://www.ehubai.tuti.hu)
