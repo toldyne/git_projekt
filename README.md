@@ -1,6 +1,6 @@
 # Első Git_projektem
 
-### A *webanár* oktatovideoja  alapján készült **formázott** szöveg
+### A *webanár* oktatovideoja  alapján készült _formázott_ szöveg
 ##### 2020 januárban
 
 ### Listaelemek:
