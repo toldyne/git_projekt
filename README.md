@@ -14,4 +14,19 @@
 
 Honlapom  http://www.ehubai.tuti.hu
 
-Ebben a sorban beillesztett `<b> kódrészket </b>` van 
+Ebben a sorban beillesztett `<b> kódrészket </b>` van.
+
+### PHP kód:
+```php
+$a = 23;
+$b = 11;
+echo $a + $b;
+```
+
+### JacaScript kód:
+```javascript
+var p = 23;
+alert("hahaha");
+```
+
+
