@@ -48,6 +48,7 @@ print ($kicsi * $nagy) . "<br /><br />";
 
 // Itt a vége. :-)
 
-// sajat gépen frissitve 
+// sajat gépen más van, ez a tavalyi
+// nem kell futni
 
 ?>
