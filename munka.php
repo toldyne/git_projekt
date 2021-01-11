@@ -11,8 +11,7 @@ $b = 16;
 
 
 print $a + $b;
-print $a;
-print $b;
+print $a; print $b;
 
 
 
