@@ -7,7 +7,7 @@
 ## *Listaelemek:*
 - lista1
 - lista 2
-- lista 3
+- *lista 3*
           vagy
           
  1. lista 1
@@ -28,6 +28,6 @@ echo $a + $b;
 ```javascript
 var p = 23;
 alert("hahaha");
-```
+
 
 
