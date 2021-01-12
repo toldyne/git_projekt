@@ -23,19 +23,17 @@ Ebben a sorban beillesztett `<b> kódrészket </b>` van.
 
 ```   harom elejere es vegere  ```
 
-### PHP kód:
+#### PHP kód:
 ```php
 $a = 23;
 $b = 11;
 echo $a + $b;
 ```
 
-### JacaScript kód:
-javascript
-
+#### JacaScript kód:
+```javascript
 var p = 23;
-
 alert("hahaha");
-
-
+```
+vége
 
