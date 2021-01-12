@@ -1,10 +1,10 @@
-# Első Git_projektem
+## Első Git_projektem
 
 ### A *webanár* oktatovideoja  alapján készült _formázott_ szöveg
-##### 2020 januárban
-##### 2021 januarban ujra kezdtem....
+### 2020 januárban
+#### 2021 januarban **ujra kezdtem....**
 
-### Listaelemek:
+## *Listaelemek:*
 - lista1
 - lista 2
 - lista 3
