@@ -8,12 +8,13 @@
 - lista1
 - lista 2
 - *lista 3*
-          vagy
-          
+          vagy        
  1. lista 1
  2. lista 2
 
 Honlapom  http://www.ehubai.tuti.hu
+Webtanár: http://webtanar.hu
+[Webtanár weblapja](http://webtanar.hu)
 
 Ebben a sorban beillesztett `<b> kódrészket </b>` van.
 
