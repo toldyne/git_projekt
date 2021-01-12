@@ -20,6 +20,7 @@ Webtanár: http://webtanar.hu
 
 
 Ebben a sorban beillesztett `<b> kódrészket </b>` van.
+
 ```   harom elejere es vegere  ```
 
 ### PHP kód:
@@ -31,7 +32,9 @@ echo $a + $b;
 
 ### JacaScript kód:
 javascript
+
 var p = 23;
+
 alert("hahaha");
 
 
