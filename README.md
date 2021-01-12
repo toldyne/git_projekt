@@ -22,7 +22,7 @@ Webtanár: http://webtanar.hu
 Ebben a sorban beillesztett `<b> kódrészket </b>` van.
 
 ### PHP kód:
-```php
+`php`
 $a = 23;
 $b = 11;
 echo $a + $b;
