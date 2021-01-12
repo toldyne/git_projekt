@@ -48,5 +48,7 @@ print ($kicsi * $nagy) . "<br /><br />";
 // Itt a vége. :-)
 
 // sajat gépen modisitva 2021 jan 12
+// megint modositva  este is
+// megint modositva  reggel is
 
 ?>
