@@ -20,16 +20,17 @@ Webtanár: http://webtanar.hu
 
 
 Ebben a sorban beillesztett `<b> kódrészket </b>` van.
+```   harom elejere es vegere  ```
 
 ### PHP kód:
-`php`
+```php
 $a = 23;
 $b = 11;
 echo $a + $b;
 ```
 
 ### JacaScript kód:
-```javascript
+javascript
 var p = 23;
 alert("hahaha");
 
